@@ -4,4 +4,4 @@ In this homework, we needed to meet accessibility standards. For the first step,
 
 Next, I changed a few things in CSS to matchup with the html code. And put it in order.
 
-The image elements didn't have any alt attributes. For each <img src=""> I assigned an alt attribute.
+The image elements didn't have any alt attributes. For each image tag I assigned an alt attribute.
